@@ -12,4 +12,5 @@ To Do List:
 -most Shiny, Mettalic & Ghostly pokemon need to be added as a child BP of Pet_Parent_BP.
 -evolving pokemon
 -pokemon IV & EV stats need to be implemented.
+-improve texture resolution to 4k for all pokemon.
 -----------------------------------
