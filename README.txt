@@ -4,7 +4,7 @@ Pokemon Spirit 3D is a free game for Windows PC.
 Catch Pokemon, Level them up and have real time battles in a high quality 3D open world.
 -----------------------------------
 AkumaVenom's current task:
--500 team/box pokemon slots coded in multiple blueprints.
+-500 team/box pokemon slots being coded in multiple blueprints.
 -----------------------------------
 To Do List:
 -the rest of Kanto & Johto need to be built fully.
