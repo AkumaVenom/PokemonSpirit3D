@@ -10,4 +10,5 @@ To Do List:
 -500 team/box pokemon slots need to be coded in multiple blueprints.
 -random wild pokemon sizes, mini to extra big and change pokemon voices pitch based on the pokemon size.
 -most Shiny, Mettalic & Ghostly pokemon need to be added as a child BP of Pet_Parent_BP.
+-evolving pokemon
 -----------------------------------
