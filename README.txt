@@ -8,4 +8,5 @@ To Do List:
 -spawning wild pokemon in all regions/places of the game.
 -most pokemon moves and particles need to be added.
 -500 team/box pokemon slots need to be coded in multiple blueprints.
+-random wild pokemon sizes, mini to extra big.
 -----------------------------------
