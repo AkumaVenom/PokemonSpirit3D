@@ -16,5 +16,5 @@ To Do List:
 -evolving pokemon
 -pokemon IV & EV stats need to be implemented.
 -improve texture resolution to 4k for all pokemon.
--create node on Pet_Parent_BP to calculate pokemon stats based on current pokemon level.
+-create node on Pet_Parent_BP to calculate and set pokemon stats based on current pokemon level.
 -----------------------------------
