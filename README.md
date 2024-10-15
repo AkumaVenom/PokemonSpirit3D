@@ -8,8 +8,7 @@ Catch Pokemon, Level them up and have real time battles in a high quality 3D ope
 
 -----------------------------------
 
-![Screenshot 2024-10-15 173222](https://github.com/user-attachments/assets/340e5270-66e7-4f4b-8b86-ce959a470a20)
-
+![PokeScreen](https://github.com/user-attachments/assets/05d46733-6b6d-43e6-adaa-2a97d46283f4)
 
 -----------------------------------
 
