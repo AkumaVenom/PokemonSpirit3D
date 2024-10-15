@@ -7,6 +7,11 @@ Catch Pokemon, Level them up and have real time battles in a high quality 3D ope
 
 -----------------------------------
 
+![Screenshot 2024-10-15 173222](https://github.com/user-attachments/assets/340e5270-66e7-4f4b-8b86-ce959a470a20)
+
+
+-----------------------------------
+
 AkumaVenom's current task:
 -500 team/box pokemon slots being coded in multiple blueprints.
 
