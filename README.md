@@ -1,11 +1,17 @@
-Opensource Pokémon Spirit 3D version 2.0.0 alpha UE4.27 project
+# Opensource Pokémon Spirit 3D version 2.0.0 alpha UE4.27 project
+
 -----------------------------------
+
 Pokemon Spirit 3D is a free game for Windows PC.
 Catch Pokemon, Level them up and have real time battles in a high quality 3D open world.
+
 -----------------------------------
+
 AkumaVenom's current task:
 -500 team/box pokemon slots being coded in multiple blueprints.
+
 -----------------------------------
+
 To Do List:
 -the rest of Kanto & Johto need to be built fully.
 -spawning wild pokemon in all regions/places of the game.
@@ -17,4 +23,5 @@ To Do List:
 -pokemon IV & EV stats need to be implemented.
 -improve texture resolution to 4k for all pokemon.
 -create function on Pet_Parent_BP to calculate and set pokemon stats based on current pokemon level.
+
 -----------------------------------
